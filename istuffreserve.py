@@ -57,7 +57,7 @@ chosenStores = {
 
 # Set which SKUs you want
 chosenSKUs = {
-    'MQAD2B/A': 'iPhone X 256GB Silver',
+    'MQAD2B/A': 'iPhone X 64GB Silver',
     }
 
 # Pulls the JSON from the server
